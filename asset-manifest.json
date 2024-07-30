@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.419800bf.css",
-    "main.js": "/static/js/main.165da38f.js",
+    "main.css": "/static/css/main.cc4619ce.css",
+    "main.js": "/static/js/main.8ccb725c.js",
     "static/js/685.1238110b.chunk.js": "/static/js/685.1238110b.chunk.js",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
@@ -15,11 +15,11 @@
     "static/media/remixicon.ttf?t=1690730386070": "/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/materialdesignicons-webfont.woff2?v=7.2.96": "/static/media/materialdesignicons-webfont.66f2d337503c6bd54e84.woff2",
+    "static/media/waves-5648180_1920.jpg": "/static/media/waves-5648180_1920.d9c578dece210ddca7cb.jpg",
     "static/media/do.svg": "/static/media/do.d2287a1e1eee0805fc2703cc75c35d9f.svg",
     "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
     "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/img-1.jpg": "/static/media/img-1.53d0bcae9922629289e7.jpg",
-    "static/media/auth-one-bg.jpg": "/static/media/auth-one-bg.25e906a11e79860b57fd.jpg",
     "static/media/img-3.jpg": "/static/media/img-3.1c0b562c2ed3d35bd905.jpg",
     "static/media/la-solid-900.eot": "/static/media/la-solid-900.4184d740eae2fb727bfe.eot",
     "static/media/la-solid-900.ttf": "/static/media/la-solid-900.279f38601f1d1655255f.ttf",
@@ -39,6 +39,7 @@
     "static/media/img-3.png": "/static/media/img-3.50996c6b5349bce6789b.png",
     "static/media/la-solid-900.woff": "/static/media/la-solid-900.893634871a6cbff72157.woff",
     "static/media/img-10.jpg": "/static/media/img-10.b951fa5106513cf25b23.jpg",
+    "static/media/farme-tinn.png": "/static/media/farme-tinn.b2488a3a9d11a3e4126f.png",
     "static/media/img-4.png": "/static/media/img-4.96f3b0d655aa68212997.png",
     "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/bo.svg": "/static/media/bo.2d613c30588ccd9ef77b112f059e927e.svg",
@@ -383,7 +384,7 @@
     "static/media/bd.svg": "/static/media/bd.a62e330d249ff3f5bd27978a78c3d1d6.svg"
   },
   "entrypoints": [
-    "static/css/main.419800bf.css",
-    "static/js/main.165da38f.js"
+    "static/css/main.cc4619ce.css",
+    "static/js/main.8ccb725c.js"
   ]
 }
