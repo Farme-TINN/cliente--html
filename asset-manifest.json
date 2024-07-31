@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc4619ce.css",
-    "main.js": "/static/js/main.0f11cf6a.js",
-    "static/js/685.1238110b.chunk.js": "/static/js/685.1238110b.chunk.js",
+    "main.js": "/static/js/main.b475c03c.js",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -68,6 +67,7 @@
     "static/media/pe.svg": "/static/media/pe.38abe80e0cb9775bea8ca0a9fd1d216c.svg",
     "static/media/img-05.jpg": "/static/media/img-05.537c20d8af68890e1a62.jpg",
     "static/media/me.svg": "/static/media/me.3b8260d491f0ed64b1ad45d0e624888d.svg",
+    "static/media/faq-img.png": "/static/media/faq-img.a1d026a43c2533e4455d.png",
     "static/media/hkgrotesk-semibold.woff": "/static/media/hkgrotesk-semibold.59387fcce7c52054d89f.woff",
     "static/media/hkgrotesk-regular.woff": "/static/media/hkgrotesk-regular.24ff70bdc6ea8999be5c.woff",
     "static/media/img-9.jpg": "/static/media/img-9.0b16bc91d91f179ed8f1.jpg",
@@ -251,7 +251,6 @@
     "static/media/my.svg": "/static/media/my.7e428afb6b51fce8a18f22125c8dbada.svg",
     "static/media/pk.svg": "/static/media/pk.1641c8e64b1bd7efb4cf58154af8762d.svg",
     "static/media/cw.svg": "/static/media/cw.a25ddf6cb1774394ca5e5bccb0bf2ea1.svg",
-    "index.html": "/index.html",
     "static/media/nr.svg": "/static/media/nr.e40987a95f62f3d532cfc91e7be26c74.svg",
     "static/media/pa.svg": "/static/media/pa.0d7aba7570eb52070bc398f72123a637.svg",
     "static/media/eur.svg": "/static/media/eur.ab85efd245c6d0d8b0114c5dd41164ec.svg",
@@ -259,6 +258,7 @@
     "static/media/ca.svg": "/static/media/ca.27f31b05aefedba14066678956638a05.svg",
     "static/media/cf.svg": "/static/media/cf.8200815d4e5dbcc4bcbeb2ed0baadb41.svg",
     "static/media/gg.svg": "/static/media/gg.e9d7238c94cc4589ac0ee16c9d7009c9.svg",
+    "index.html": "/index.html",
     "static/media/add.svg": "/static/media/add.d7d758e63e568500e57e2d99ff9bef1d.svg",
     "static/media/pr.svg": "/static/media/pr.f30085c55c924e5d04b4907e7513b5a2.svg",
     "static/media/bb.svg": "/static/media/bb.901de8a417306b83d2522cbfc0822f2e.svg",
@@ -385,6 +385,6 @@
   },
   "entrypoints": [
     "static/css/main.cc4619ce.css",
-    "static/js/main.0f11cf6a.js"
+    "static/js/main.b475c03c.js"
   ]
 }
