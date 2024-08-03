@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc4619ce.css",
-    "main.js": "/static/js/main.94699449.js",
+    "main.js": "/static/js/main.0eee1b1f.js",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -39,6 +39,7 @@
     "static/media/la-solid-900.woff": "/static/media/la-solid-900.893634871a6cbff72157.woff",
     "static/media/img-10.jpg": "/static/media/img-10.b951fa5106513cf25b23.jpg",
     "static/media/farme-tinn.png": "/static/media/farme-tinn.b2488a3a9d11a3e4126f.png",
+    "static/media/farme-sm.png": "/static/media/farme-sm.c5f72e466d2c8bf2dc7d.png",
     "static/media/img-4.png": "/static/media/img-4.96f3b0d655aa68212997.png",
     "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/bo.svg": "/static/media/bo.2d613c30588ccd9ef77b112f059e927e.svg",
@@ -385,6 +386,6 @@
   },
   "entrypoints": [
     "static/css/main.cc4619ce.css",
-    "static/js/main.94699449.js"
+    "static/js/main.0eee1b1f.js"
   ]
 }
