@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc4619ce.css",
-    "main.js": "/static/js/main.08b1927a.js",
+    "main.js": "/static/js/main.3e1d45f4.js",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -110,6 +110,7 @@
     "static/media/ni.svg": "/static/media/ni.8d96afba252d8a1467bee13f837bf7cd.svg",
     "static/media/py.svg": "/static/media/py.f95e744f8dc1060e28c92e7afc8644da.svg",
     "static/media/avatar-2.jpg": "/static/media/avatar-2.58874a6f667b9b04ce55.jpg",
+    "static/media/farmabien-sm.png": "/static/media/farmabien-sm.0d27eda2b8f92ef9376a.png",
     "static/media/binance.png": "/static/media/binance.290a6213adc6b030e4c4.png",
     "static/media/dm.svg": "/static/media/dm.380e0b295df6cce924d9e193f5007a98.svg",
     "static/media/us.svg": "/static/media/us.32c036a7edc8a389a763a3782960d0d5.svg",
@@ -386,6 +387,6 @@
   },
   "entrypoints": [
     "static/css/main.cc4619ce.css",
-    "static/js/main.08b1927a.js"
+    "static/js/main.3e1d45f4.js"
   ]
 }
