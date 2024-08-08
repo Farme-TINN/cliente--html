@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc4619ce.css",
-    "main.js": "/static/js/main.3e1d45f4.js",
+    "main.css": "/static/css/main.51853b6b.css",
+    "main.js": "/static/js/main.8ff3aa9f.js",
     "static/media/remixicon.svg?t=1690730386070": "/static/media/remixicon.db77551b8efc76571c4f.svg",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -25,6 +25,7 @@
     "static/media/remixicon.woff?t=1690730386070": "/static/media/remixicon.affd60ca37df38cfee4f.woff",
     "static/media/img-03.jpg": "/static/media/img-03.fb9bdc2e151790836837.jpg",
     "static/media/rs.svg": "/static/media/rs.dc155455e86e12200cb5fc44882ea69e.svg",
+    "static/media/img-10.png": "/static/media/img-10.d8de01354204f22b64a0.png",
     "static/media/img-4.jpg": "/static/media/img-4.0c27fe74df9e5866c5d6.jpg",
     "static/media/img-2.jpg": "/static/media/img-2.ff87bf028c7481626ed8.jpg",
     "static/media/marketplace.png": "/static/media/marketplace.71ac83cb425dd99cc8eb.png",
@@ -386,7 +387,7 @@
     "static/media/bd.svg": "/static/media/bd.a62e330d249ff3f5bd27978a78c3d1d6.svg"
   },
   "entrypoints": [
-    "static/css/main.cc4619ce.css",
-    "static/js/main.3e1d45f4.js"
+    "static/css/main.51853b6b.css",
+    "static/js/main.8ff3aa9f.js"
   ]
 }
